@@ -1,6 +1,6 @@
 ---
 title: Collections 
-author: Patricia Casas
+author: true
 date: 2023-02-18 11:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [collect]
@@ -18,3 +18,5 @@ En el ejemplo que hemos proporcionado, se está definiendo una colección llamad
 - `sort_by: order`: Indica que los documentos en la colección deben ordenarse por el campo `order` en el encabezado YAML de cada archivo.
 
 ![Desktop View](/assets/img/Screenshot_1.png)
+
+---------------------
