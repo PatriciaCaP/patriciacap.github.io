@@ -21,7 +21,7 @@ En este ejemplo, se mostrarían 10 publicaciones por página.
 
 ---------------------------------
 
-Yo muestro 4 publicaciones por página:
-![Desktop View](/assets/img/Screenshot_12.png)
+Yo muestro 3 publicaciones por página:
+![Desktop View](/assets/img/Screenshot_13.png
 
 ----------------------------------
