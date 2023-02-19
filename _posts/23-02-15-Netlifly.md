@@ -24,10 +24,10 @@ tags: [netlifly]
 
 7. Una vez que la compilación se haya completado, Netlify te proporcionará una URL única para tu sitio web. Puedes personalizar esta URL o usar tu propio dominio personalizado.
 
-8. Ahora puedes acceder a tu sitio web de Jekyll alojado en Netlify y comprobar que todo funciona correctamente.
+8. Ahora puedes acceder a tu sitio web de Jekyll alojado en Netlify y comprobar que todo funciona correctamente. El mio es este [**patriciacap.netlify.app**](https://patriciacap.netlify.app/)
 
-Ten en cuenta que, para que Netlify compile tu sitio web de Jekyll, necesitarás asegurarte de que tienes todas las dependencias de Jekyll instaladas y configuradas correctamente. Si tienes algún problema con la compilación, revisa los registros de construcción de Netlify para obtener más información sobre cualquier error que haya ocurrido durante el proceso de compilación.
+> Ten en cuenta que, para que Netlify compile tu sitio web de Jekyll, necesitarás asegurarte de que tienes todas las dependencias de Jekyll instaladas y configuradas correctamente. Si tienes algún problema con la compilación, revisa los registros de construcción de Netlify para obtener más información sobre cualquier error que haya ocurrido durante el proceso de compilación.
+{: .prompt-warning }
 
-El mio es este [**patriciacap.netlify.app**](https://patriciacap.netlify.app/)
 
 -------------------------------------

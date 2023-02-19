@@ -21,7 +21,7 @@ timezone: Europe/Madrid
 
 title: Patricia Casas                         # the main title
 
-tagline: Mi página  # it will display as the sub-title
+tagline: Como he hecho esta página   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Bienvenidos a mi página
@@ -117,7 +117,7 @@ assets:
 pwa:
   enabled: true   # the option for PWA feature
 
-paginate: 3
+paginate: 4
 
 # ------------ The following options are not recommended to be modified ------------------
 
