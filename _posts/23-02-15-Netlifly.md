@@ -29,5 +29,5 @@ mermaid: true
 
 Ten en cuenta que, para que Netlify compile tu sitio web de Jekyll, necesitarás asegurarte de que tienes todas las dependencias de Jekyll instaladas y configuradas correctamente. Si tienes algún problema con la compilación, revisa los registros de construcción de Netlify para obtener más información sobre cualquier error que haya ocurrido durante el proceso de compilación.
 
-El mio es este **patriciacap.netlify.app**(https://patriciacap.netlify.app/)
+El mio es este [**patriciacap.netlify.app**](https://patriciacap.netlify.app/)
 
