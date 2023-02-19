@@ -1,6 +1,6 @@
 ---
 title: Collections 
-author: true
+nombre: True
 date: 2023-02-18 11:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [collect]

@@ -1,6 +1,6 @@
 ---
 title: Cómo crear una cuenta de Google Analytics y enlazarla con tu sitio web en GitHub Pages con Jekyll
-author: true
+nombre: True
 date: 2023-01-08 11:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [google analitycs]
