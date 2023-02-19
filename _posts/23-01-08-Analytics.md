@@ -11,7 +11,7 @@ mermaid: true
 
 Google Analytics es una herramienta gratuita de seguimiento de estadísticas que te permite obtener información sobre el tráfico de tu sitio web. En este tutorial, aprenderás cómo crear una cuenta de Google Analytics y enlazarla con tu sitio web en GitHub Pages con Jekyll.
 
-## Cómo crear un sitio web con Jekyll y Github Pages
+##  Cómo crear una cuenta de Google Analytics y enlazarla con tu sitio web en GitHub Pages con Jekyll
 
 <h2 data-toc-skip>Paso 1: Crear una cuenta de Google Analytics</h2>
 
@@ -45,6 +45,12 @@ Guarda los cambios en `_config.yml`l y luego genera tu sitio web Jekyll. Abre tu
 <h2 data-toc-skip>Paso 5: Verifica los datos de seguimiento en Google Analytics</h2>
 
 Después de esperar unas horas o un día, regresa a tu cuenta de Google Analytics y asegúrate de que los datos de seguimiento se estén registrando correctamente. Si todo se configuró correctamente, verás información sobre el tráfico en tu sitio web.
+
+## Mi Google Analytics
+
+![Desktop View](/assets/img/Screenshot_5.png)
+
+![Desktop View](/assets/img/Screenshot_6.png)
 
 ## Aprende más
 
