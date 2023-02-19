@@ -1,5 +1,5 @@
 #  The contact options.
-
+#####He añadido contactos
 -
   type: github
   icon: 'fab fa-github'
@@ -10,10 +10,20 @@
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
+-                          #####Nuevos contactos añadidos
+  type: youtube
+  icon: 'fab fa-youtube'
   noblank: true
+  url: 'https://www.youtube.com/@pildorasinformaticas'
+-
+  type: linkedin
+  icon: 'fab fa-linkedin-in'
+  noblank: true
+  url: 'https://www.linkedin.com/home'
+-
+  type: reddit
+  icon: fab fa-reddit
+  url: 'https://www.reddit.com/r/programacion/comments/s3iecj/tipos_de_errores_los_errores_de_programaci%C3%B3n/'
 
 # Uncomment and complete the url below to enable more contact options
 # -
