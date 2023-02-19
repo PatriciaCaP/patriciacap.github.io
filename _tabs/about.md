@@ -3,6 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
+# Sobre mí
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hola, mi nombre es Patricia Casas y soy una estudiante de ASIR. Esta es mi guía de como he creado esta página de Github Pages con Jekyll.

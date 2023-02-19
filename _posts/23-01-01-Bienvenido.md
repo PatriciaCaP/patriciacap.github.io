@@ -2,15 +2,13 @@
 title: Cómo crear un sitio web con Jekyll y Github Pages
 author: Patricia Casas
 date: 2023-01-01 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+categories: [Blogging, Tutorial]
+tags: [Github Pages]
 math: true
 mermaid: true
 
 ---
-![Desktop View](/assets/img/title-image.jpg){: width="972" height="589" }
-_Full screen width and center alignment_
-
+![Desktop View](/assets/img/title-image.jpg)
 ## Cómo crear un sitio web con Jekyll y Github Pages
 
 [**GitHub Pages**](https://pages.github.com/) es un servicio que permite a los usuarios de GitHub alojar sitios web estáticos. [**Jekyll**](https://jekyllrb.com/) es un generador de sitios web estáticos que utiliza Markdown y otras plantillas para crear páginas web. Juntos, estos dos servicios proporcionan una plataforma fácil de usar y gratuita para alojar un sitio web personal o profesional.
@@ -83,8 +81,3 @@ Espera unos minutos a que GitHub procese los cambios y cree el sitio web. Puedes
 ## Video
 
 {% include embed/youtube.html id='sLTNgxxSBR4' %}
-
-## Reverse Footnote
-
-[^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
