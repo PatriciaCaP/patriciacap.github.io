@@ -6,8 +6,6 @@ categories: [Blogging, Tutorial]
 tags: [Github Pages]
 math: true
 mermaid: true
-comments: true
-
 ---
 ![Desktop View](/assets/img/title-image.jpg)
 ## Cómo crear un sitio web con Jekyll y Github Pages

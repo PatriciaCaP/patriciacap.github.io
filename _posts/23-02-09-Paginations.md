@@ -6,8 +6,6 @@ categories: [Blogging, Tutorial]
 tags: [pagination]
 math: true
 mermaid: true
-comments: true
-
 ---
 
 ## configurar la paginación para tus publicaciones en Github Pages

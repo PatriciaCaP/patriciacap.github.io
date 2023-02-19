@@ -6,8 +6,6 @@ categories: [Blogging, Tutorial]
 tags: [google analitycs]
 math: true
 mermaid: true
-comments: true
-
 ---
 ![Desktop View](/assets/img/google-analytics-logo.png)
 
