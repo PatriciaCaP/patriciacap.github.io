@@ -30,3 +30,4 @@ Ten en cuenta que, para que Netlify compile tu sitio web de Jekyll, necesitarás
 
 El mio es este [**patriciacap.netlify.app**](https://patriciacap.netlify.app/)
 
+-------------------------------------
