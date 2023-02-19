@@ -91,7 +91,7 @@ toc: true
 comments: 
   active: disqus 
   disqus:
-    shortname: https-patriciacap-github-io 
+    shortname: https-patriciacap-github-io
   utterances:
     repo:         # <gh-username>/<repo>
     issue_term:   # < url | pathname | title | ...>
