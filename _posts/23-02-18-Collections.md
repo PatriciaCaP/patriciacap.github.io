@@ -4,8 +4,7 @@ author: Patricia Casas
 date: 2023-02-18 11:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [collect]
-math: true
-mermaid: true
+
 ---
 
 ## Collections

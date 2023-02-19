@@ -4,8 +4,7 @@ author: Patricia Casas
 date: 2023-01-08 11:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [google analitycs]
-math: true
-mermaid: true
+
 ---
 ![Desktop View](/assets/img/google-analytics-logo.png)
 

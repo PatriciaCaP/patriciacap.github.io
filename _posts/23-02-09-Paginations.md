@@ -4,8 +4,7 @@ author: Patricia Casas
 date: 2023-02-09 11:33:00 +0800
 categories: [Blogging, Tutorial]
 tags: [pagination]
-math: true
-mermaid: true
+
 ---
 
 ## configurar la paginación para tus publicaciones en Github Pages
