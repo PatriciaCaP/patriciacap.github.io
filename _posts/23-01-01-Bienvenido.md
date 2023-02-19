@@ -3,7 +3,7 @@ title: Cómo crear un sitio web con Jekyll y Github Pages
 author: Patricia Casas
 date: 2023-01-01 11:33:00 +0800
 categories: [Blogging, Tutorial]
-tags: [Github Pages]
+tags: [github pages]
 math: true
 mermaid: true
 ---

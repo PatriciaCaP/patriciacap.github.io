@@ -86,7 +86,7 @@ avatar: 'assets/img/gito.jpg'
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-#################
+##########################
 comments: 
   active: disqus 
   disqus:

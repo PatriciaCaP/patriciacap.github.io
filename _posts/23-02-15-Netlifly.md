@@ -3,7 +3,7 @@ title: Cómo subir tu sitio web a Netlifly
 author: Patricia Casas
 date: 2023-02-15 11:33:00 +0800
 categories: [Blogging, Tutorial]
-tags: [Netlifly]
+tags: [netlifly]
 math: true
 mermaid: true
 ---
