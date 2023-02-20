@@ -4,11 +4,17 @@ title: Equipo
 order: 5
 ---
 
+**Nuestro Equipo**
 
-| Nombre | Posición | Departamento |
-
-
+<table>
+ <tr>
+   <th>Nombre</th> 
+   <th>Cargo</th> 
+   <th>Departamento</th> 
+</tr> 
 {% for empleado in site.data.empleados %}
-| {{ empleado.nombre }} | {{ empleado.cargo }} | {{ empleado.departamento }} |
+    <tr> <td>{{ empleado.nombre }} </td> 
+    <td> {{ empleado.cargo }} </td>
+    <td>{{ empleado.departamento }} </td>
+    </tr>
 {% endfor %}
-{: .table-striped .table-bordered }
